@@ -1,5 +1,5 @@
 # POWER-BI-PROJECTS 
-Here I cretaed Dashboard for mexico Toy sales where i used multiple visuals to show the KPI's. 
-like salesvs profit by over time ,sales and profit by store location ,top 10 product by profit ,top 10 store who prerfomred well.
-Also creted slicer which can help us to filter(Year filter ,store Location,Produtc category).
-I have Uploaded PBI file and source data.
+Here I created a Dashboard for Mexico Toy sales where I used multiple visuals to show the KPIs. 
+like sales vs. profit over time, sales and profit by store location, top 10 products by profit, and top 10 stores that performed well.
+Also created a slicer that can help us to filter(Year filter, store Location, Product category).
+I have Uploaded the PBI file and source data.
